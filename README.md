@@ -21,3 +21,5 @@ The specification is implementation-agnostic and does not define proprietary alg
 ## Contents
 
 - ASM_White_Paper_v0.1.md — full public white paper
+  
+DOI: https://doi.org/10.5281/zenodo.18203329
