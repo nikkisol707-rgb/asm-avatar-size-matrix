@@ -24,4 +24,15 @@ The specification is implementation-agnostic and does not define proprietary alg
   
 DOI: https://doi.org/10.5281/zenodo.18203329
 
+- ## White Papers
+
+- ASM White Paper v0.2 — ASM_White_Paper_v0.2_Social_Avatars
+
+DOI: https://doi.org/10.5281/zenodo.18491123
+
+- ASM White Paper v0.3 — ASM White Paper v0.3 – Gaming Avatars
+Authors/Creators
+
+DOI: https://doi.org/10.5281/zenodo.18492884
+
 IPFS CID (immutable copy): bafkreihvjaeynj7hgq4a7fx4vrc6snk3ti23ua3hhu2uw5ytndyrwmbltm
