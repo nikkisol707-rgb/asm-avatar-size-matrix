@@ -35,7 +35,6 @@ DOI: https://doi.org/10.5281/zenodo.18491123
 IPFS CID (immutable copy): bafkreic43doaafa7dx72z754ixpkkrox2uu35uihfflkye3p6nkognk5bm
 
 - ASM White Paper v0.3 — ASM White Paper v0.3 – Gaming Avatars
-Authors/Creators
 
 DOI: https://doi.org/10.5281/zenodo.18492884
 
