@@ -39,3 +39,9 @@ IPFS CID (immutable copy): bafkreic43doaafa7dx72z754ixpkkrox2uu35uihfflkye3p6nko
 DOI: https://doi.org/10.5281/zenodo.18492884
 
 IPFS CID (immutable copy): bafkreicgctwjv733po4awvdye5zna2xwhlpgbpodg2cfy6rvslzthsun5q
+
+ASM_Avatar_System_Metaverse_White_Paper_v0.1.md
+
+DOI: https://doi.org/10.5281/zenodo.18515661
+
+IPFS CID (immutable copy): bafkreidhtnzl62imtsh3h26upmawum5f2ezuupcajxxseoas4ciam45xji
